@@ -15,3 +15,5 @@ You will need:
 In the code you may need to change the directory for ffmpeg if it is stored somewhere else
 
 ### This is the code for Windows machines, I will make one for Mac and Linux later down the line.
+
+The code for creating the poem is in a function and running the file will output the test poem. You can import it as a library and use it however you want.
